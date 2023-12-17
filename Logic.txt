@@ -1,0 +1,76 @@
+Assuming player Start with sword, shield, ocarina, sot, sos;
+
+Defenitions:
+HP - heart piece;
+gf - Great Fairy Mask;
+x$ - x rupees(1-green;5-blue;20-red;50-purple;100-silver;200-gold);
+(c) - cheatu romani;
+(r) - red potion;
+(g) - gold dust;
+priority - priority mail to Mama;
+
+
+all masks are shortened to the first word only (i.e: blast - blast mask);
+
+Item checks are spelled as:
+Location - Item1/Item2+Item3;[normal reward]
+where Either Item1 Or both Item2 And Item3 is needed to get the item In Location Which is Usually normal reward;
+* means somthing I'm unsure about;
+(x$) means necessery price;
+~x means same Check can be triggered from any location with the same ~x;
+
+
+*************************************************************
+North Clock Town:
+Tree - None;[HP]
+TownMap - None*(20$);~2[townmap]
+SwampMap - None*(40$);~3[swampmap]
+Bombers - bow/hook/deku+magic/zora;[notebook]
+Old Lady - None;[blast]
+Gf Human - None;[gf]
+Gf Transform - zora/deku/goron;[magic]
+Playground - deku(10$);[HP]
+Keaton - keaton;[HP]
+MailBox - postman;~1[HP]
+***********************************************************
+South Clock Town:
+Clock - None;[HP]
+Buisness scub - moon tear;[swamp deed]
+straw - None*;[100$]
+MailBox - postman;~1[HP]
+***********************************************************
+West Clock Town:
+Small BB - None(50$);[small bb]
+Big BB - None (90$);[big bb]
+Swordsman - None(10$);[HP]
+Postman's Game - None*(bunny)(2$);[HP]
+Bank1 - None(200$);[wallet]
+Bank2 - None(500$);
+Bank3 - None(1000$);
+Curiosity - Wallet3(500$);[allnight]
+Rosa - kamaro;[HP]
+**********************************************************
+East Clock Town:
+Sewer - bomb/blast/goron+keg*;[100$]
+Aroma - None;[kafei]
+Gallery Top - None;[100$]
+Honey & Darling - bow / bomb;[HP]
+Gallery - bow;[HP]
+Chest Game - goron;[HP]
+Mayor - couple;[HP]
+Mail to Mama - priority;[bottle(c)]
+Mail to MailMan - priority;[postman]
+Gorman Tears - goron+zora+deku+romani;[circus leader]
+************************************************************
+Stock Pot Inn:
+reservation - None;[room key]
+Midnight meeting - kafei;[mail to kafei]
+Toilet hand - priority/mail to kafei/swamp deed/town deed/ocean deed/mountain deed;[HP]
+Staff Only - None;[100$]
+Knife Chamber - room key;[100$]
+Granny1 - allnight;[HP]
+Granny2 - allnight;[HP]
+************************************************************
+
+
+
