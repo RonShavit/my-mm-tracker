@@ -7,6 +7,12 @@
 #    and inability to understand the existing trackers.      #
 ##############################################################
 
+■■      ■■  ■■■■■■■■■■  ■■          ■■            ■■■■■■    
+■■      ■■  ■■          ■■          ■■          ■■      ■■  
+■■■■■■■■■■  ■■■■■■■■■■  ■■          ■■          ■■      ■■  
+■■      ■■  ■■          ■■          ■■          ■■      ■■  
+■■      ■■  ■■■■■■■■■■  ■■■■■■■■■■  ■■■■■■■■■■    ■■■■■■   
+
 This is a item check tracker for The Legend of Zelda:Majora's Mask Randomizer.
 Specificly the randomizer created by ZoeyZolotova (https://github.com/ZoeyZolotova/mm-rando).
 The idea is to create a tracker that can allow you to see which item checks you can collect with the current items in your desposel.
