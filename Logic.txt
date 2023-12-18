@@ -190,3 +190,44 @@ Cremia - bow+goron+keg;[romani]
 ##      ##  ##      ##  ##      ##  ##    ####      ##      ##########      ##      ##    ####                ##  ##        ##      ##          ##          ##########  ##      ##  ##          
 ##      ##    ######      ######    ##      ##      ##      ##      ##      ##      ##      ##                  ##          ##      ##########  ##########  ##      ##    ######    ##########  
 ******************************************************************
+Mountain Village(boom+bow/bow+fire+magic):
+Smithy 1 - Wallet2+goron+bottle/Wallet2+fire+magic(100$);[razor]
+Smithy 2 - goron+bottle(g)/fire+magic+bottle(g)[gilded]
+SirLoin - goron+magic;[don gero]
+Darmani - lens+magic+soh;[goron]
+Ramp Grotto - fire+magic+goron+gl;[20$]
+Waterfall Chest - fire+magic+goron+gl;[20$]
+*****************************************************************
+Twin Islands(boom+bow/bow+fire+magic):
+Goron Race - fire+magic+goron+gl;[bottle(g)]
+Hot Water Grotto - goron+bomb+bottle/goron+blast+bottle;[20$]
+Race Grotto - bomb/blast;[bombchu];
+Under Water Chest - fire+magic+goron+gl+zora;[HP]
+Cave Chest - fire+magic+goron+gl+zora;[20$]
+MountMap - bow/hook/zora/deku+magic(20$);[ranchMap]~4
+RanchMap - bow/hook/zora/deku+magic(40$);[ranchMap]~5
+*****************************************************************
+Goron Village(boom+bow/bow+fire+magic):
+Shrine of Truth Main Chest - None;[lens]
+Shrine of Truth Rock Chest - None;[50$]
+Shrine of Truth Invis Chest - None;[20$]
+Keg Trial - fire+magic+goron;[keg]
+Giant Bomb Bag - goron+Wallet2;[giant bomb bag]
+Buisness Scrub - Deku+swampdeed;[mountdeed]
+Buisness Scrub ledge - Deku+swampdeed;[HP]
+*****************************************************************
+Path to Snowhead(boom+bow/bow+fire+magic):
+Secret Grotto - bomb+goron/blast+goron;[20$]
+Pillar - goron+hook;[HP]
+*****************************************************************
+  ######    ########    ##########    ######    ##########              ########      ######    ##      ##  
+##          ##      ##  ##          ##      ##      ##                  ##      ##  ##      ##    ##  ##    
+##  ####    ########    ##########  ##      ##      ##                  ########    ##      ##      ##      
+##      ##  ##    ##    ##          ##########      ##                  ##      ##  ##########      ##      
+  ######    ##      ##  ##########  ##      ##      ##                  ########    ##      ##      ##      
+*****************************************************************
+
+
+
+
+
