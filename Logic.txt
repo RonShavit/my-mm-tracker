@@ -1,4 +1,4 @@
-Assuming player Start with sword, shield, ocarina, sot, sos;
+Assuming player Start with sword, shield, ocarina, sot, soso;
 
 Defenitions:
 HP - heart piece;
@@ -8,18 +8,40 @@ x$ - x rupees(1-green;5-blue;20-red;50-purple;100-silver;200-gold);
 (r) - red potion;
 (g) - gold dust;
 priority - priority mail to Mama;
+Wallet2 - adult wallet;
+Wallet3 - Giant wallet;
+
+Songs:
+sot - song of time;
+soh - song of healing;
+es - eponas song;
+soso - song of soaring;
+sost - song of storms;
+soa - sonata of awakaning;
+gl - goron lullby;
+nwbn - new wave bossa nova;
+eoe - elegly of empthyness;
+oto - oath to order;
+
+shortcuts;
+boom - bomb bag/goron/blast;
 
 
 all masks are shortened to the first word only (i.e: blast - blast mask);
 
 Item checks are spelled as:
 Location - Item1/Item2+Item3;[normal reward]
-where Either Item1 Or both Item2 And Item3 is needed to get the item In Location Which is Usually normal reward;
+where Either Item1 Or both Item2 And Item3 are needed to get the item In Location Which is Usually normal reward;
 * means somthing I'm unsure about;
 (x$) means necessery price;
 ~x means same Check can be triggered from any location with the same ~x;
 
-
+**************************************************************
+  ########  ##            ######      ########  ##    ##                ##########    ######    ##      ##  ##      ##  
+##          ##          ##      ##  ##          ##  ##                      ##      ##      ##  ##      ##  ####    ##  
+##          ##          ##      ##  ##          ####                        ##      ##      ##  ##  ##  ##  ##  ##  ##  
+##          ##          ##      ##  ##          ##  ##                      ##      ##      ##  ####  ####  ##    ####  
+  ########  ##########    ######      ########  ##    ##                    ##        ######    ##      ##  ##      ##  
 *************************************************************
 North Clock Town:
 Tree - None;[HP]
@@ -55,7 +77,7 @@ Sewer - bomb/blast/goron+keg*;[100$]
 Aroma - None;[kafei]
 Gallery Top - None;[100$]
 Honey & Darling - bow / bomb;[HP]
-Gallery - bow;[HP]
+Town Gallery - bow;[HP]
 Chest Game - goron;[HP]
 Mayor - couple;[HP]
 Mail to Mama - priority;[bottle(c)]
@@ -71,6 +93,48 @@ Knife Chamber - room key;[100$]
 Granny1 - allnight;[HP]
 Granny2 - allnight;[HP]
 ************************************************************
+Laundry Pool:
+Guru Guru - None;[bremen]
+Kafei - mail to kafei;[pendant]
+Curiosity1 - mail to kafei;[priority]
+Curiosity2 - mail to kafei;[keaton]
+************************************************************
 
+##########  ##########  ########    ##      ##      ##      ##      ##    ######                ##########      ##      ##########  ##          ########    
+    ##      ##          ##      ##  ####  ####      ##      ####    ##  ##      ##              ##              ##      ##          ##          ##      ##  
+    ##      ##########  ########    ##  ##  ##      ##      ##  ##  ##  ##      ##              ##########      ##      ##########  ##          ##      ##  
+    ##      ##          ##    ##    ##      ##      ##      ##    ####  ##########              ##              ##      ##          ##          ##      ##  
+    ##      ##########  ##      ##  ##      ##      ##      ##      ##  ##      ##              ##              ##      ##########  ##########  ########    
 
+**************************************************************
+Termina Field:
+Observatory - None*;[tear]
+Dodongos - None;[HP]
+Pillar - None;[bombchu]
+Storage Scrub - Wallet2(100$);[HP]
+Grass Chest - None;[20$]
+Grass Grotto - None;[20$]
+Stump Chest - bean+bottle/hook;[20$]
+Peahat Grotto - None;[HP]
+Water Chest - zora;[20$]
+Bio Baba - zora+boom;[HP]
+Four Gossips - zora+nwbn+boom/goron+gl/deku+soa+boom;[HP]
+Kamaro - soh;[kamaro]
+****************************************************************
 
+  ########    ######    ##      ##  ##########  ##      ##  ##########  ########    ##      ##                ########  ##      ##    ######    ##      ##  ########    
+##          ##      ##  ##      ##      ##      ##      ##  ##          ##      ##  ####    ##              ##          ##      ##  ##      ##  ####  ####  ##      ##  
+  ######    ##      ##  ##      ##      ##      ##########  ##########  ########    ##  ##  ##                ######    ##  ##  ##  ##      ##  ##  ##  ##  ########    
+        ##  ##      ##  ##      ##      ##      ##      ##  ##          ##    ##    ##    ####                      ##  ####  ####  ##########  ##      ##  ##          
+########      ######      ######        ##      ##      ##  ##########  ##      ##  ##      ##              ########    ##      ##  ##      ##  ##      ##  ##   
+
+*****************************************************************
+Road to Southern Swamp:
+SwampMap - bow/hook/deku+magic/zora(20$);~3[swampmap]
+MountMap - bow/hook/deku+magic/zora(40$);~4[mountmap]
+Bat Tree - None*;[HP]
+Tree Grotto - None;[20$]
+Swamp Gallery 1 - bow(20$);[quill]
+Swamp Gallery 2 - bow(20$);[HP]
+******************************************************************
+Southern Swamp 
