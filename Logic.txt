@@ -25,6 +25,13 @@ oto - oath to order;
 
 shortcuts;
 boom - bomb bag/goron/blast;
+~1 - postbox;
+~2 - town map;
+~3 - swamp map;
+~4 - mount map;
+~5 - ranch map;
+~6 - bay map;
+~7 - ikana map;
 
 
 all masks are shortened to the first word only (i.e: blast - blast mask);
@@ -137,4 +144,49 @@ Tree Grotto - None;[20$]
 Swamp Gallery 1 - bow(20$);[quill]
 Swamp Gallery 2 - bow(20$);[HP]
 ******************************************************************
-Southern Swamp 
+Southern Swamp :
+Tour Roof - deku+towndeed;[HP]
+Woods Grotto - None;[50$]
+Kotake Potion - None;[bottle(r)]
+Koume Box - bottle(r);[pictobox]
+Pictobox contest - pictobox;[HP]
+Buisness Scrub - towndeed;[swampdeed]
+Boat Archery - bow+deku+soa+bottle;[HP]
+Swamp Spider House - deku+bottle+hook;[truth]
+Swamp Grotto - deku+zora/deku+bow/deku+hook/deku+bottle;[20$]
+******************************************************************
+Deku Palace:
+West Garden - deku+bottle/deku+hook/deku+zora/deku+bow;[HP]
+Bean Man - deku+bottle/deku+hook/deku+zora/deku+bow;[bean]
+Bean Man - deku+bottle/deku+hook;[bean]
+Deku Shrine - deku+soa+bow+bottle;[scent]
+*******************************************************************
+woodfall:
+Entrance - deku+bottle/deku+hook/deku+zora/deku+bow;[20$]
+Behind Owl - deku+bottle/deku+hook/deku+zora/deku+bow;[5$]
+Bridge - deku+bottle/deku+hook/deku+zora/deku+bow;[HP]
+*******************************************************************
+##      ##      ##      ##          ##    ##                ########      ######      ######    ########    
+####  ####      ##      ##          ##  ##                  ##      ##  ##      ##  ##      ##  ##      ##  
+##  ##  ##      ##      ##          ####                    ########    ##      ##  ##      ##  ##      ##  
+##      ##      ##      ##          ##  ##                  ##    ##    ##      ##  ##########  ##      ##  
+##      ##      ##      ##########  ##    ##                ##      ##    ######    ##      ##  ########    
+******************************************************************
+Milk Road:
+RanchMap - bow/hook/zora/deku+magic(20$);[ranchMap]~5
+Baymap - bow/hook/zora/deku+magic(40$);[bayMap]~6
+Gorman Race - es;[garo];
+******************************************************************
+Romani Ranch:
+Doggy Racetrack chest - None*;[50$]
+Doggy Race - None(50$);[HP]
+Chicks - bremen;[bunny]
+THEM - bow+goron+keg;[bottle(m)]
+Cremia - bow+goron+keg;[romani]
+******************************************************************
+##      ##    ######    ##      ##  ##      ##  ##########    ######        ##      ##      ##              ##      ##      ##      ##          ##            ######      ######    ##########  
+####  ####  ##      ##  ##      ##  ####    ##      ##      ##      ##      ##      ####    ##              ##      ##      ##      ##          ##          ##      ##  ##          ##          
+##  ##  ##  ##      ##  ##      ##  ##  ##  ##      ##      ##      ##      ##      ##  ##  ##              ##      ##      ##      ##          ##          ##      ##  ##  ####    ##########  
+##      ##  ##      ##  ##      ##  ##    ####      ##      ##########      ##      ##    ####                ##  ##        ##      ##          ##          ##########  ##      ##  ##          
+##      ##    ######      ######    ##      ##      ##      ##      ##      ##      ##      ##                  ##          ##      ##########  ##########  ##      ##    ######    ##########  
+******************************************************************

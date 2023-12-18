@@ -1,12 +1,22 @@
 
+//get text and a char from user;
+//prints to screen a big text made from give char
+/*
+(for text="abcdefghijqlmnopqrstuvwxyz 1234567890" and char='#' )
+  ######    ########      ########  ########    ##########  ##########    ######    ##      ##      ##            ##    ##    ##    ##          ##      ##  ##      ##    ######    ########      ######    ########      ########  ##########  ##      ##  ##      ##  ##      ##  ##      ##  ##      ##  ##########                  ##        ######      ######          ##    ##########    ######    ##########    ######      ######      ######    
+##      ##  ##      ##  ##          ##      ##  ##          ##          ##          ##      ##      ##            ##    ##  ##      ##          ####  ####  ####    ##  ##      ##  ##      ##  ##      ##  ##      ##  ##              ##      ##      ##  ##      ##  ##      ##    ##  ##      ##  ##          ##                  ####      ##      ##        ##        ####    ##          ##                ##    ##      ##  ##      ##  ##      ##  
+##      ##  ########    ##          ##      ##  ##########  ##########  ##  ####    ##########      ##            ##    ####        ##          ##  ##  ##  ##  ##  ##  ##      ##  ########    ##      ##  ########      ######        ##      ##      ##  ##      ##  ##  ##  ##      ##          ##          ##                      ##            ##      ######      ##  ##    ########      ######          ##      ######      ######    ##      ##  
+##########  ##      ##  ##          ##      ##  ##          ##          ##      ##  ##      ##      ##        ##  ##    ##  ##      ##          ##      ##  ##    ####  ##      ##  ##          ##    ####  ##    ##            ##      ##      ##      ##    ##  ##    ####  ####    ##  ##        ##        ##                        ##          ##            ##    ##########          ##  ##      ##      ##      ##      ##          ##  ##      ##  
+##      ##  ########      ########  ########    ##########  ##            ######    ##      ##      ##          ##      ##    ##    ##########  ##      ##  ##      ##    ######    ##            ########  ##      ##  ########        ##        ######        ##      ##      ##  ##      ##      ##      ##########                  ##      ##########    ######          ##    ########      ######        ##        ######          ##      ######    
+*/
 let phrase = prompt("Enter Pharse: ").toUpperCase();
 let charec = prompt("Enter Char: ");
 let out = ['','','','',''];
-let one = ['BDEFHKLMNPRTUVWXYZ','ABCDEFGOPQRSTZ','ABCDEFGIOPQRSTZ','ABCDEFGJKOPQRSTZ','CEFHMNSTUVWXYZ'];
-let two = ['ABCDEFGHKLMNOPQRSUVW','MNXY','IKT','JMXYZ','ABDHMNOPQRUVW'];
-let three = ['ABCDEFGHKLMNOPQRUVW','BEFHKPRS','BEFGHIMNPRSTWXYZ','BEFGHJPRS','ADEFHMNOQUVW'];
-let four = ['ABCDEFGHKLMNOPQRUW','AJVWXZ','AIKTY','AJNQRVWX','ABDGHMNOQSUW'];
-let five = ['ABDEFHKLMNPRSWXZ','BCDEGLOQSUZ','BCDEGIJLOQSTUVYZ','BCDEGKLOQSUZ','ACEHLMNQRWXZ'];
+let one = ['BDEFHKLMNPRTUVWXYZ57\\','ABCDEFGOPQRSTZ23567890','ABCDEFGIOPQRSTZ123567890\'','ABCDEFGJKOPQRSTZ234567890','CEFHMNSTUVWXYZ57/'];
+let two = ['ABCDEFGHKLMNOPQRSUVW256890','MNXY1\\','IKT14\'','JMXYZ47/','ABDHMNOPQRUVW28903'];
+let three = ['ABCDEFGHKLMNOPQRUVW506','BEFHKPRS345689-','BEFGHIMNPRSTWXYZ135689-\\/','BEFGHJPRS23456789-','ADEFHMNOQUVW09'];
+let four = ['ABCDEFGHKLMNOPQRUW4680','AJVWXZ4/','AIKTY1247,','AJNQRVWX4\\','ABDGHMNOQSUW4568903'];
+let five = ['ABDEFHKLMNPRSWXZ25_/','BCDEGLOQSUZ235680_,','BCDEGIJLOQSTUVYZ12356780_.','BCDEGKLOQSUZ23456890_','ACEHLMNQRWXZ2_\\'];
 let checks = [one,two,three,four,five];
 
 for (let i = 0 ;i<phrase.length;i++)
