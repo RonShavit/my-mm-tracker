@@ -23,7 +23,7 @@ nwbn - new wave bossa nova;
 eoe - elegly of empthyness;
 oto - oath to order;
 
-shortcuts;
+Shortcuts:
 boom - bomb bag/goron/blast;
 ~1 - postbox;
 ~2 - town map;
@@ -32,6 +32,12 @@ boom - bomb bag/goron/blast;
 ~5 - ranch map;
 ~6 - bay map;
 ~7 - ikana map;
+
+Tags:
+™ - requires temple completion
+† - requires temple non completion
+ß - requires scarecrow
+☾ - requires specific time
 
 
 all masks are shortened to the first word only (i.e: blast - blast mask);
