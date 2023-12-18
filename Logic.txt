@@ -127,7 +127,7 @@ Pillar - None;[bombchu]
 Storage Scrub - Wallet2(100$);[HP]
 Grass Chest - None;[20$]
 Grass Grotto - None;[20$]
-Stump Chest - bean+bottle/hook;[20$]
+Stump Chest - bean+bottle/hook/bean+sost;[20$]
 Peahat Grotto - None;[HP]
 Water Chest - zora;[20$]
 Bio Baba - zora+boom;[HP]
@@ -210,7 +210,7 @@ Hot Water Grotto - goron+bomb+bottle/goron+blast+bottle;[20$]
 Race Grotto - bomb/blast;[bombchu];
 Under Water Chest - fire+magic+goron+gl+zora;[HP]
 Cave Chest - fire+magic+goron+gl+zora;[20$]
-MountMap - bow/hook/zora/deku+magic(20$);[ranchMap]~4
+MountMap - bow/hook/zora/deku+magic(20$);[mountMap]~4
 RanchMap - bow/hook/zora/deku+magic(40$);[ranchMap]~5
 *****************************************************************
 Goron Village(boom+bow/bow+fire+magic):
@@ -232,6 +232,56 @@ Pillar - goron+hook;[HP]
 ##      ##  ##    ##    ##          ##########      ##                  ##      ##  ##########      ##      
   ######    ##      ##  ##########  ##      ##      ##                  ########    ##      ##      ##      
 *****************************************************************
+Great Bay(es):
+Fisherman Grotto - None;[20$]
+BayMap - bow/hook(20$);[bayMap]~6
+IkanaMap - bow/hook(40$);[ikanaMap]~7
+Lab Fish - bottle;[HP]
+Mikau - soh;[zora]
+Spider House Chest - bow+hook+bomb/bow+hook+blast;[HP]
+Ocean Spider House - bomb+hook/blast+hook;[Wallet3]
+Jump Minigame - bow+ice+magic+hook+nwbn;[HP]
+Scarecrow Ledge - hook+bean+bottle/hook+bean+sost;[HP]
+*****************************************************************
+Zora Cape(es):
+Ledge 1 - hook;[20$]
+Ledge 2 - hook;[20$]
+Beaver - hook+zora;[bottle]
+LikeLike - zora;[HP]
+Underwater Chest - zora;[50$]
+Under Rock Grotto - boom;[bombchu]
+*****************************************************************
+Zora Hall(es):
+Evan - zora;[HP]
+Lulu Ledge - zora;[HP]
+Buisness Scrub - goron+zora+mountdeed;[oceandeed]
+Torches - bow+fire+magic;[5$]
+*****************************************************************
+Pirate Fortress Exterior(es);
+Pipe Chest - zora;[20$]
+Sand Chest - zora;[20$]
+Corner Chest - zora;[20$]
+*****************************************************************
+Pirate Fortress Sewers(es):
+Maze - zora+goron;[20$]
+Shallow - zora+goron;[20$]
+Deep - zora+goron;[5$]
+Cage - zora+goron;[HP]
+*****************************************************************
+Pirate Fortress(es):
+Tank - hook+zora;[20$]
+Upper - hook+zora;[20$]
+Lower - hook+zora/goron+zora;[20$]
+Hookshot - bow+zora+goron/deku+magic+zora+goron;[hook]
+Guards - zora+hook;[100$]
+******************************************************************
+Pinnacle Rock(es):
+Upper - zora;[20$]
+Lower - zora;[20$]
+Seahorse - zora+pictobox+bottle;[HP]
+******************************************************************
+
+
 
 
 
