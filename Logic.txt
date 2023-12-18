@@ -25,6 +25,7 @@ oto - oath to order;
 
 Shortcuts:
 boom - bomb bag/goron/blast;
+ikanaMask - garo/gibdo;
 ~1 - postbox;
 ~2 - town map;
 ~3 - swamp map;
@@ -285,7 +286,53 @@ Seahorse - zora+pictobox+bottle;[HP]
     ##      ####        ##      ##  ##  ##  ##  ##      ##              ##      ##  ##      ##  ##          ##          ##########      ##      
     ##      ##  ##      ##########  ##    ####  ##########                ##  ##    ##########  ##          ##          ##              ##      
     ##      ##    ##    ##      ##  ##      ##  ##      ##                  ##      ##      ##  ##########  ##########  ##########      ##      
-    ***************************************************************
+*******************************************************************
+Road To Ikana:
+Pillar - hook;[20$]
+Shiro - lens,magic,bottle,es;[stone]
+Grotto - goron;[bombchu]
+*******************************************************************
+Ikana Graveyard(es):
+Rock Circle Grotto - bomb/blast;[bombchu]
+Captain Keeta - soa, bow;[captain]
+Grave1 bats - captain;[50$]
+Grave2 Iron Knuckle - captain+bomb/captain+blast;[HP]
+Grave3 Dampe - captain+bow/captain+zora;[bottle]
+*******************************************************************
+Ikana Canyon(hook+es+ikanaMask):
+Waterfall Grotto - None;[bombchu]
+Buisness Scrub - zora+oceandeed;[200$]
+Ledge - zora+oceandeed+deku;[HP]
+poe Man - bow/bomb(30$);[HP]
+Pamela's Dad - sost+soh;[gibdo]
+*******************************************************************
+Secret Shrine(es+hook+ikanaMask+bow+magic+light):
+Dinoflos - None;[100$]
+Wizzrobe - None;[100$]
+Wart - None;[100$]
+Garo Master - None;[100$]
+finale - None;[HP]
+*******************************************************************
+Beneath the Well(es+hook+gibdo)
+Left Chest - bottle+Wallet2;[50$]
+Right Chest - bean+bottle+fire+magic+bow;[50$]
+Shield Chest - bean+bottle+bow+fire+magic/bow+fire+light+magic;[mirror]
+*******************************************************************
+Ikana Castle:
+Pillar Outside - bow+fire+magic+deku+mirror/bow+fire+magic+deku+light;[HP];
+*******************************************************************
+Stone Tower Entrance(es+hook+ikanaMask):
+*
+*******************************************************************
+########    ##      ##  ##      ##    ######    ##########    ######    ##      ##    ########  
+##      ##  ##      ##  ####    ##  ##          ##          ##      ##  ####    ##  ##          
+##      ##  ##      ##  ##  ##  ##  ##  ####    ##########  ##      ##  ##  ##  ##    ######    
+##      ##  ##      ##  ##    ####  ##      ##  ##          ##      ##  ##    ####          ##  
+########      ######    ##      ##    ######    ##########    ######    ##      ##  ########    
+*******************************************************************
+
+
+
 
 
 
