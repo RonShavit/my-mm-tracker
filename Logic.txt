@@ -366,7 +366,20 @@ Eyegore - None;[giant]
 DeathArm - bomb/blast;[]
 Twinmold - None;[HP]
 *******************************************************************
-
+  ########    ######    ##      ##    ######      ########  
+##          ##      ##  ####    ##  ##          ##          
+  ######    ##      ##  ##  ##  ##  ##  ####      ######    
+        ##  ##      ##  ##    ####  ##      ##          ##  
+########      ######    ##      ##    ######    ########    
+********************************************************************
+Start - None;[soh]
+Skull Kid - bow/hook/deku+magic/zora/bomb/blast;[sot]
+Palace Monkey - deku+hook/deku+bow/deku+zora/deku+bottle;[soa]
+Owl Song - bow+soa+deku;[soso]
+Romani - goron+keg;[es]
+Baby Goron - bow + goron;[gl]
+Flat - captain + es;[sost]
+Igos - bow+fire+light+magic+hook+ikanaMask+es+mirror;[eoe]
 
 
 
