@@ -330,6 +330,44 @@ Stone Tower Entrance(es+hook+ikanaMask):
 ##      ##  ##      ##  ##    ####  ##      ##  ##          ##      ##  ##    ####          ##  
 ########      ######    ##      ##    ######    ##########    ######    ##      ##  ########    
 *******************************************************************
+Woodfall temple(deku+soa):
+Dragonfly - bow/bottle/hook/zora;[Compass]
+Near Boss Key - bow/bottle/hook/zora;[small key]
+Snappers - bow/bottle/hook/zora;[map]
+Dinoflos - bow/bottle/hook/zora;[bow]
+Odolwa - bow;[HP]
+*******************************************************************
+Snowhead temple(bow+goron+gl):
+Elavator Room - magic/hook;[map]
+Double Block - magic/hook/blast/bomb;[small key]
+Compass Room -  None;[Compass]
+Icicles Room - fire+magic/bomb/blast/hook;[small key]
+Wizzrobe - fire+magic/bomb/blast;[fire]
+Near Bridge - fire+magic/bomb/blast/hook;[small key]
+Goht - magic+fire;[HP]
+*******************************************************************
+Great Bay Temple(zora+es+hook+nwbn):
+Map - None;[map]
+Compass - None;[Compass]
+Underwater - None;[map]
+Wart - None;[map]
+Gyorg - bow+ice+magic;[HP]
+*******************************************************************
+Normal Stone Tower Temple(goron+zora+eoe+hook+ikanaMask+es):
+Compass - light+bow+magic/mirror;[Compass]
+DexiHand - light+bow+magic;[]
+Map - light+bow+magic;[map]
+Armos - light+bow+magic;[]
+Garo Master - light+bow+magic;[]
+*******************************************************************
+Inverted Stone Tower Temple(goron+zora+eoe+hook+ikanaMask+es+light+bow+magic):
+Updraft Room - None;[]
+Eyegore - None;[giant]
+DeathArm - bomb/blast;[]
+Twinmold - None;[HP]
+*******************************************************************
+
+
 
 
 
