@@ -1,952 +1,244 @@
 {
     "nctTree" : {
         "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Jump from the slide to the top of the nearb tree to get the reward",
+        "tags" : []
+    },
     "nctTownMap" : {
         "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
-    "nctTree" : {
-        "req":[[]],
-        "rew": "none",
-        "norm" : "HP"
-    }
+        "rew": null,
+        "norm" : "townmap",
+        "desc" : "Talk to tingle and buy the item from him for 20 ruppes",
+        "tags" : ["$","~2"]
+
+    },
+    "nctSwampMap" : {
+        "req":[[]],
+        "rew": null,
+        "norm" : "swampmap",
+        "desc" : "Talk to tingle and buy the item from him for 40 ruppes",
+        "tags" : ["$","~3"]
+
+    },
+    "nctBombers" : {
+        "req":[["bow"],["hook"],["zora"],["magic","deku"]],
+        "rew": null,
+        "norm" : "notebook",
+        "desc" : "Complete the bombers minigame as young Link, then go in and out of the sewers",
+        "tags" : []
+
+    },
+    "nctOldLady" : {
+        "req":[],
+        "rew": null,
+        "norm" : "blast",
+        "desc" : "Stop Sakon from robbing the poor old lady at 00:00 o the first day",
+        "tags" : ["☾"]
+
+    },
+    "nctGreatFairyHuman" : {
+        "req":[],
+        "rew": null,
+        "norm" : "greatfairy",
+        "desc" : "Rescue and return the Clock Town Lost Fairy as Young Link",
+        "tags" : []
+
+    },
+    "nctGreatFairyTransform" : {
+        "req":[],
+        "rew": null,
+        "norm" : "magic",
+        "desc" : "Rescue and return the Clock Town Lost Fairy as deku, goron or zora Link",
+        "tags" : []
+
+    },
+    "nctPlayground" : {
+        "req":[["deku"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Complete the deku playground and get the prize",
+        "tags" : ["$","☾"]
+
+    },
+    "nctKeaton" : {
+        "req":[["keaton"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Cut the Grass and answer the keaton correctly",
+        "tags" : ["~8"]
+
+    },
+    "nctMailBox" : {
+        "req":[["postman"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Check the mailbox with the postman's hat on",
+        "tags" : ["~1"]
+
+    },
+
+
+
+
+    "wctMailBox" : {
+        "req":[["postman"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Check the mailbox with the postman's hat on",
+        "tags" : ["~1"]
+
+    },
+
+    "wctBombBag" : {
+        "req":[],
+        "rew": null,
+        "norm" : "smallbb",
+        "desc" : "Buy the item at the bom shop for 50 rupees",
+        "tags" : ["$"]
+
+    },
+    "wctBigBombBag" : {
+        "req":[],
+        "rew": null,
+        "norm" : "bigbb",
+        "desc" : "Stop the midnight robbery to buy it at the bomb shop, or buy it at the curiosity shop",
+        "tags" : ["$", "☾"]
+
+    },
+    "wctSwordsman" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Complete the swordsman expert trial fopr 10 rupees",
+        "tags" : ["$"]
+
+    },
+    "wctPostmansGame" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Win the Postmans minigame in the afternoon (Tip: use the bunny hood)",
+        "tags" : ["$","☾"]
+
+    },
+    "wctBank1" : {
+        "req":[],
+        "rew": null,
+        "norm" : "wallet2",
+        "desc" : "Deposit 200 rupees to the bank",
+        "tags" : ["$"]
+
+    },
+    "wctBank2" : {
+        "req":[],
+        "rew": null,
+        "norm" : "bluepee",
+        "desc" : "Deposit 500 rupees to the bank",
+        "tags" : ["$"]
+
+    },
+    "wctBank3" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Deposit 1000 rupees to the bank",
+        "tags" : ["$"]
+
+    },
+    "wctCuriosityShop" : {
+        "req":[["wallet3"]],
+        "rew": null,
+        "norm" : "allnight",
+        "desc" : "Purcase the curiosity shop item foor 500 rupees (requires you to let the old lady get robbed)",
+        "tags" : ["☾"]
+
+    },
+    "wctRosa" : {
+        "req":[["kamaro"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Use Kamaro's mask to teach the Rosa sisters Kamaro's dance",
+        "tags" : ["☾"]
+
+    },
+
+
+    "sctClockTower" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Climbe the clock tower to get the prize",
+        "tags" : []
+
+    },
+    "sctBuisnessScrub" : {
+        "req":[["tear"]],
+        "rew": null,
+        "norm" : "swampdeed",
+        "desc" : "Trade the moon's tear with the buisness scrub",
+        "tags" : []
+
+    },
+    "sctStraw" : {
+        "req":[],
+        "rew": null,
+        "norm" : "silverupee",
+        "desc" : "Jump-Slash under the straw roof to get on it",
+        "tags" : []
+
+    },
+    "sctMailBox" : {
+        "req":[["postman"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Check the mailbox with the postman's hat on",
+        "tags" : ["~1"]
+
+    },
+
+
+    
+    "ectMailBox" : {
+        "req":[["postman"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Check the mailbox with the postman's hat on",
+        "tags" : ["~1"]
+
+    },
+    "ectSewer" : {
+        "req":[["bomb"],["blast"]],
+        "rew": null,
+        "norm" : "silverupee",
+        "desc" : "Blast the broken wall to find a chest",
+        "tags" : []
+
+    },
+    "ectAroma" : {
+        "req":[],
+        "rew": null,
+        "norm" : "kafei",
+        "desc" : "Talk to Madame Aroma On the first day",
+        "tags" : ["☾"]
+
+    },
+    "ectGalleryTop" : {
+        "req":[],
+        "rew": null,
+        "norm" : "silverupee",
+        "desc" : "Jump from the top of the Milk Bar to the top of the shooting gallery",
+        "tags" : []
+
+    },
+    "ectHoneyDarling" : {
+        "req":[],
+        "rew": null,
+        "norm" : ,
+        "desc" : "",
+        "tags" : []
+
+    },
+
 }
