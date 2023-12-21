@@ -1,5 +1,5 @@
 {
-    "wallet" : 1, 
+    "wallet" : 1 , 
     "bow" : false,
     "fire" : false,
     "ice" : false,
@@ -11,7 +11,7 @@
     "pictobox" : false,
     "lens" : false,
     "hook" : false,
-    "bottle" : 0,
+    "bottle" : 0 ,
     "gd" : false,
     "tear" : false,
     "towndeed" : false,
