@@ -268,7 +268,7 @@
         "req":[["priority","kafei"]],
         "rew": null,
         "norm" : "bottle",
-        "desc" : "Give mama the Priotity mail from kafei",
+        "desc" : "Give mama the Priotity mail from Kafei",
         "tags" : ["☾"]
 
     },
@@ -276,7 +276,7 @@
         "req":[["priority"]],
         "rew": null,
         "norm" : "postman",
-        "desc" : "Give the postman the Priority mail from kafei",
+        "desc" : "Give the postman the Priority mail from Kafei",
         "tags" : ["☾"]
 
     },
@@ -362,11 +362,135 @@
         "req":[["letter2kafei"]],
         "rew": null,
         "norm" : "pendent",
-        "desc" : "Send the letter to kafei and go into his house after he gets it",
+        "desc" : "Send the letter to Kafei and go into his house after he gets it",
         "tags" : ["☾"]
 
     },
     "lpCuriosity1" : {
+        "req":[["letter2kafei"]],
+        "rew": null,
+        "norm" : "priority",
+        "desc" : "Meet the curiosity shop owner on the final day after Kafei leaves to chase Sakon",
+        "tags" : ["☾"]
+
+    },
+    "lpCuriosity2" : {
+        "req":[["letter2kafei"]],
+        "rew": null,
+        "norm" : "keaton",
+        "desc" : "Meet the curiosity shop owner on the final day after Kafei leaves to chase Sakon",
+        "tags" : ["☾"]
+
+    },
+
+
+
+
+
+
+    "tfObservatory" : {
+        "req":[],
+        "rew": null,
+        "norm" : "tear",
+        "desc" : "Look at the top o the clock town through the observatory's telescope",
+        "tags" : []
+
+    },
+    "tfDodongos" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Defeat all the dodongos in the grotto",
+        "tags" : []
+
+    },
+    "tfPillar" : {
+        "req":[],
+        "rew": null,
+        "norm" : "bombchu",
+        "desc" : "Climb the pillar and enter the grotto on top",
+        "tags" : []
+
+    },
+    "tfStorageScrub" : {
+        "req":[["wallet2"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Spot the scrub flying out of Clock Town, follow him to his secret storage and pay him",
+        "tags" : ["$"]
+
+    },
+    "tfGrassChest" : {
+        "req":[],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Open the chest hidden in the tall grass",
+        "tags" : []
+
+    },
+    "tfGrassGrotto" : {
+        "req":[],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Follow the butterflies and find the secret grotto",
+        "tags" : []
+
+    },
+    "tfStumpChest" : {
+        "req":[["bean","bottle"],["hook"],["bean","sost"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Use the bean to climb the stump, or hookshot to the chest",
+        "tags" : []
+
+    },
+    "tfPeahat" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Enter the grotto at day and defeat the peahat insoide",
+        "tags" : ["☾"]
+
+    },
+    "tfWaterChest" : {
+        "req":[["zora"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Dive underwater and open the chest",
+        "tags" : []
+
+    },
+    "tfBioBaba" : {
+        "req":[["zora","bomb"],["zora","blast"],["zora","goron"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Blast the rock, enter the grotto and dive underwater",
+        "tags" : []
+
+    },
+    "tfGossips" : {
+        "req":[["goron","gl"],["zora","nwbn","bomb"],["zora","nwbn","blast"],["zora","nwbn","goron"],["deku","soa","bomb"],["deku","soa","blast"],["deku","soa","goron"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Solve the gossip stones riddle to get the reward",
+        "tags" : []
+
+    },
+    "tfKamaro" : {
+        "req":[["soh"]],
+        "rew": null,
+        "norm" : "kamaro",
+        "desc" : "Heal Kamaro at night to get his reward",
+        "tags" : ["☾"]
+
+    },
+
+
+
+
+
+
+    "" : {
         "req":[],
         "rew": null,
         "norm" : ,
