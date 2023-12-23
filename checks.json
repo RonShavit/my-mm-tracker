@@ -233,6 +233,140 @@
 
     },
     "ectHoneyDarling" : {
+        "req":[["bow"],["bomb"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Complete Honey & darlings minigame to win a prize",
+        "tags" : ["☾"]
+
+    },
+    "ectTownGallery" : {
+        "req":[["bow"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Beat the town shooting gallery to win a prize",
+        "tags" : ["☾"]
+
+    },
+    "ectChestGame" : {
+        "req":[["goron"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Use the goron mask to get a special prize for beating the chest minigame",
+        "tags" : ["☾"]
+
+    },
+    "ectMayor" : {
+        "req":[["couple"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Use the couples mask to end the endless dispute",
+        "tags" : ["☾"]
+
+    },
+    "ectMailToMama" : {
+        "req":[["priority","kafei"]],
+        "rew": null,
+        "norm" : "bottle",
+        "desc" : "Give mama the Priotity mail from kafei",
+        "tags" : ["☾"]
+
+    },
+    "ectMailToPostMan" : {
+        "req":[["priority"]],
+        "rew": null,
+        "norm" : "postman",
+        "desc" : "Give the postman the Priority mail from kafei",
+        "tags" : ["☾"]
+
+    },
+    "ectGorman" : {
+        "req":[["deku","zora","goron","romani"]],
+        "rew": null,
+        "norm" : "circus",
+        "desc" : "Complete the sound check at the milk bar",
+        "tags" : ["☾"]
+
+    },
+
+
+
+    "spiReservation" : {
+        "req":[],
+        "rew": null,
+        "norm" : "roomkey",
+        "desc" : "Check in to the inn on the first afternoon",
+        "tags" : ["☾"]
+
+    },
+    "spiMidnightMeeting" : {
+        "req":[["kafei"]],
+        "rew": null,
+        "norm" : "letter2kafei",
+        "desc" : "Set up the midnight meeting in the afternoon, then talk to Anju in he kitchen at midnight",
+        "tags" : ["☾"]
+
+    },
+    "spiToiletHand" : {
+        "req":[["letter2kafei"],["priority"],["swampdeed"],["towndeed"],["mountdeed"],["oceandeed"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Give the toilet hand some king of paper",
+        "tags" : ["☾"]
+
+    },
+    "spiStaffOnley" : {
+        "req":[],
+        "rew": null,
+        "norm" : "silverupee",
+        "desc" : "Go to the staff onley room on the final night",
+        "tags" : ["☾"]
+
+    },
+    "spiKnifeChamber" : {
+        "req":[["roomkey"]],
+        "rew": null,
+        "norm" : "silverupee",
+        "desc" : "Use the key to enter the knife chamber",
+        "tags" : []
+
+    },
+    "spiGranny1" : {
+        "req":[["allnight"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Listen to granny's first story and answer the question correctly",
+        "tags" : ["☾"]
+
+    },
+    "spiGranny2" : {
+        "req":[["allnight"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Listen to granny's second story and answer the question correctly",
+        "tags" : ["☾"]
+
+    },
+
+
+
+    "lpGuruGuru" : {
+        "req":[],
+        "rew": null,
+        "norm" : "bremen",
+        "desc" : "Listen to Guru Guru's confestion",
+        "tags" : ["☾"]
+
+    },
+    "lpKafei" : {
+        "req":[["letter2kafei"]],
+        "rew": null,
+        "norm" : "pendent",
+        "desc" : "Send the letter to kafei and go into his house after he gets it",
+        "tags" : ["☾"]
+
+    },
+    "lpCuriosity1" : {
         "req":[],
         "rew": null,
         "norm" : ,
