@@ -490,6 +490,133 @@
 
 
 
+
+    "rtssSwampMap" : {
+        "req":[["bow"],["hook"],["deku","magic"],["zora"]],
+        "rew": null,
+        "norm" : "swampmap",
+        "desc" : "Talk to tingle and buy the item from him for 20 ruppes",
+        "tags" : ["$","~3"]
+
+    },
+    "rtssMountMap" : {
+        "req":[["bow"],["hook"],["deku","magic"],["zora"]],
+        "rew": null,
+        "norm" : "swampmap",
+        "desc" : "Talk to tingle and buy the item from him for 40 ruppes",
+        "tags" : ["$","~3"]
+
+    },
+    "rtssBatTree" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Climb ato the large tree to get the item",
+        "tags" : []
+
+    },
+    "rtssTreeGrotto" : {
+        "req":[],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Enter the grotto and open the chest inside",
+        "tags" : []
+
+    },
+    "rtssSwampGallery1" : {
+        "req":[["bow"]],
+        "rew": null,
+        "norm" : "quill",
+        "desc" : "Beat the swamp shooting gallery to win a prize",
+        "tags" : ["☾"]
+
+    },
+    "rtssSwampGallery2" : {
+        "req":[["bow"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Beat the swamp shooting gallery to win a prize",
+        "tags" : ["☾"]
+
+    },
+
+
+
+    "ssTourRoof" : {
+        "req":[["deku","towndeed"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Trade the deed with the buisness scrub, then use his flower to jump onto the roof",
+        "tags" : []
+
+    },
+    "ssWoodsGrotto" : {
+        "req":[],
+        "rew": null,
+        "norm" : "rupeerple",
+        "desc" : "Enter the grotto hidden in the woods of mystery",
+        "tags" : []
+
+    },
+    "ssKotakePotion" : {
+        "req":[],
+        "rew": null,
+        "norm" : "bottle",
+        "desc" : "Talk to Koume, then report her injury to Kotake",
+        "tags" : ["☾"]
+
+    },
+    "ssKomueBox" : {
+        "req":[["bottle"]],
+        "rew": null,
+        "norm" : "pictobox",
+        "desc" : "Heal Koume, then take her swamp tour",
+        "tags" : []
+
+    },
+    "ssPictoboxContest" : {
+        "req":[["pictobox"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Show the contest runner a picture of his son",
+        "tags" : ["☾"]
+
+    },
+    "ssBuisnessScrub" : {
+        "req":[["towndeed"]],
+        "rew": null,
+        "norm" : "swampdeed",
+        "desc" : "Trade the deed with the buisness scrub",
+        "tags" : []
+
+    },
+    "ssBoatArchery" : {
+        "req":[["bow","deku","bottle","soa"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "After clearing woodfall temple, beat Koume's archery game",
+        "tags" : ["™"]
+
+    },
+    "ssSpiderHouse" : {
+        "req":[["deku","bottle","hook"]],
+        "rew": null,
+        "norm" : "truth",
+        "desc" : "Destry all 30 gold skulltula and get their tokens",
+        "tags" : []
+
+    },
+    "ssGrotto" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Enter the grotto and open the chest inside",
+        "tags" : []
+
+    },
+
+
+
     "" : {
         "req":[],
         "rew": null,
@@ -498,5 +625,7 @@
         "tags" : []
 
     },
+
+
 
 }
