@@ -33,6 +33,7 @@ ikanaMask - garo/gibdo;
 ~5 - ranch map;
 ~6 - bay map;
 ~7 - ikana map;
+~8 - keaton;
 
 Tags:
 ™ - requires temple completion
@@ -66,7 +67,7 @@ Old Lady - None;[blast]
 Gf Human - None;[gf]
 Gf Transform - zora/deku/goron;[magic]
 Playground - deku(10$);[HP]
-Keaton - keaton;[HP]
+Keaton - keaton;~8[HP]
 MailBox - postman;~1[HP]
 ***********************************************************
 South Clock Town:
@@ -81,8 +82,8 @@ Big BB - None (90$);[big bb]
 Swordsman - None(10$);[HP]
 Postman's Game - None*(bunny)(2$);[HP]
 Bank1 - None(200$);[wallet]
-Bank2 - None(500$);
-Bank3 - None(1000$);
+Bank2 - None(500$);[5$]
+Bank3 - None(1000$);[HP]
 Curiosity - Wallet3(500$);[allnight]
 Rosa - kamaro;[HP]
 **********************************************************
