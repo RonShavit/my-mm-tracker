@@ -617,6 +617,143 @@
 
 
 
+    "dpWestGraden" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Sneak past the guards and grab the item",
+        "tags" : []
+
+    },
+    "dpBeanMan" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "bean",
+        "desc" : "Sneak past the guards and talk to the salesman in the grotto",
+        "tags" : []
+
+    },
+    "dpBeanChest" : {
+        "req":[["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Sneak past the guards and get up to the chest using beans of the hookshot",
+        "tags" : []
+
+    },
+    "dpDekuShrine" : {
+        "req":[["deku","bow","soa","bottle"]],
+        "rew": null,
+        "norm" : "scent",
+        "desc" : "Rescue the deku princess and follow the butler",
+        "tags" : ["™"]
+
+    },
+
+    
+
+    "wfEntrance" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Jump to the left and open the chest",
+        "tags" : []
+
+    },
+    "wfBehindOwl" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Jump from the flower to the chest behind the owl statue",
+        "tags" : []
+
+    },
+    "wfBridge" : {
+        "req":[["deku","zora"],["deku","bow"],["deku","hook"],["deku","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Make your way to the chest on the bridge",
+        "tags" : []
+
+
+
+
+
+
+    },
+    
+    "mrRanchMap" : {
+        "req":[["bow"],["hook"],["zora"],["deku","magic"]],
+        "rew": null,
+        "norm" : "ranchmap",
+        "desc" : "Talk to tingle and buy the item from him for 20 ruppes",
+        "tags" : ["~5"]
+
+    },
+    "mrOceanMap" : {
+        "req":[["bow"],["hook"],["zora"],["deku","magic"]],
+        "rew": null,
+        "norm" : "oceanmap",
+        "desc" : "Talk to tingle and buy the item from him for 40 ruppes",
+        "tags" : ["~6"]
+
+    },
+    "mrGormenRace" : {
+        "req":[["es"]],
+        "rew": null,
+        "norm" : "garo",
+        "desc" : "Win the race against the Gormen Brothers",
+        "tags" : ["☾"]
+
+    },
+
+
+
+    "rrDoggyChest" : {
+        "req":[],
+        "rew": null,
+        "norm" : "rupeerple",
+        "desc" : "Get on top of the roof and get the chest",
+        "tags" : ["☾"]
+
+    },
+    "rrDoggyRace" : {
+        "req":[],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Win over 150 rupees betting on dogs",
+        "tags" : ["☾"]
+
+    },
+    "rrChicks" : {
+        "req":[["bremen"]],
+        "rew": null,
+        "norm" : "bunny",
+        "desc" : "March all the chicks until they grow up",
+        "tags" : ["☾"]
+
+    },
+    "rrTHEM" : {
+        "req":[["bow","goron","keg"]],
+        "rew": null,
+        "norm" : "bottle",
+        "desc" : "Help Romani fend off the invaders coming on the first night",
+        "tags" : ["☾"]
+
+    },
+    "rrCremia" : {
+        "req":[["bow","goron","keg"]],
+        "rew": null,
+        "norm" : "romani",
+        "desc" : "After helping Romani, help Cremia with her delivery",
+        "tags" : ["☾"]
+
+    },
+
+
+
+
+
     "" : {
         "req":[],
         "rew": null,
