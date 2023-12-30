@@ -755,21 +755,66 @@
 
 
     "mvSmithy1" : {
-        "req":[[]],
+        "req":[["wallet2","goron","magic"],["wallet2","fire","magic"]],
         "rew": null,
-        "norm" : ,
-        "desc" : "",
-        "tags" : []
+        "norm" : "razor",
+        "desc" : "Unfreeze the furnace and pay the smithies",
+        "tags" : ["☾","$"]
 
     },
     "mvSmithy2" : {
-        "req":[[]],
+        "req":[["goron","gd"],["fire","magic","gd"]],
+        "rew": null,
+        "norm" : "gilded",
+        "desc" : "Unfreeze the furnace and give the smithies gold dust",
+        "tags" : ["☾"]
+
+    },
+    "mvSirloin" : {
+        "req":[["goron","magic"]],
+        "rew": null,
+        "norm" : "dongero",
+        "desc" : "Give the hungry goron some rock sirloin",
+        "tags" : ["†"]
+
+    },
+    "mvDarmani" : {
+        "req":[["lens","magic","soh"]],
+        "rew": null,
+        "norm" : "goron",
+        "desc" : "Follow Darmani's spirit and heal him",
+        "tags" : []
+
+    },
+    "mvRampGrotto" : {
+        "req":[["fire","magic","goron","gl"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "After clearing snowhead temple, roll up the ramp and find the hidden grotto",
+        "tags" : ["™"]
+
+    },
+    "mvWaterfallChest" : {
+        "req":[["fire","magic","goron","gl"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "After clearing snowhead temple, find and open the chest underwater",
+        "tags" : ["™"]
+
+    },
+
+
+
+    "" : {
+        "req":[],
         "rew": null,
         "norm" : ,
         "desc" : "",
         "tags" : []
 
     },
+
+
     
 
 
