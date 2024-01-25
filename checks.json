@@ -805,6 +805,46 @@
 
 
 
+    "tiGoronRace" : {
+        "req":[["fire","magic","goron","gl"]],
+        "rew": null,
+        "norm" : "gd",
+        "desc" : "Win the goron race to get a prize",
+        "tags" : ["™"]
+
+    },
+    "tiHotWaterGrotto" : {
+        "req":[["goron","bomb", "bottle"],["goron","blast","bottle"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Blast open the grotto and pour hot spring water on the ice",
+        "tags" : []
+
+    },
+    "tiRaceGrotto" : {
+        "req":[["bomb"],["blast"]],
+        "rew": null,
+        "norm" : "bombchu",
+        "desc" : "Blast open the entrance to the grooto",
+        "tags" : []
+
+    },
+    "tiUnderwaterChest" : {
+        "req":[["goron","bow","fire","magic","zora"]],
+        "rew": null,
+        "norm" : "HP",
+        "desc" : "Dive underwater and open the chest",
+        "tags" : ["™"]
+
+    },
+    "tiCaveChest" : {
+        "req":[["goron","bow","fire","magic","zora"]],
+        "rew": null,
+        "norm" : "redrupee",
+        "desc" : "Dive underwater and into the cave to find the chest",
+        "tags" : ["™"]
+
+    },
     "" : {
         "req":[],
         "rew": null,
@@ -813,6 +853,9 @@
         "tags" : []
 
     },
+
+
+    
 
 
     
